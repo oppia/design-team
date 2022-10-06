@@ -32,6 +32,6 @@ If applicable, please also provide the deadline for when the full design (includ
 
 - [ ] UX Writing approved (tag @danapj once ready for UXW review) 
 
-- [ ] Product approved (tag @dchen97 once ready for product review)
+- [ ] Product approved (tag @dchen97 (for web projects) or @seanlip (for Android projects) once ready for product review)
 
 **Design project is not complete until all of the above approvals are complete**
