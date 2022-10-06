@@ -26,9 +26,12 @@ Please link to the PRD here.
 If this feature is time-sensitive, please explain why.
 If applicable, please also provide the deadline for when the full design (including text content) needs to be completed by.
 
-**DO NOT EDIT THE FOLLOWING --- ONLY REVIEWERS SHOULD EDIT THE FOLLOWING WHEN THEY APPROVE**
-[ ] UX Design approved (tag @findimue or @fionafyzeng once ready for UXD review) 
-[ ] UX Writing approved (tag @danapj once ready for UXW review) 
-[ ] Product approved (tag @dchen97 once ready for product review)
+**DESIGN APPROVAL CHECKLIST - DO NOT EDIT THE FOLLOWING --- ONLY REVIEWERS SHOULD EDIT THE FOLLOWING WHEN THEY APPROVE**
+
+- [ ] UX Design approved (tag @findimue or @fionafyzeng once ready for UXD review) 
+
+- [ ] UX Writing approved (tag @danapj once ready for UXW review) 
+
+- [ ] Product approved (tag @dchen97 once ready for product review)
 
 **Design project is not complete until all of the above approvals are complete**
