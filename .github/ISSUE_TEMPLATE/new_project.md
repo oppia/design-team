@@ -28,7 +28,7 @@ If applicable, please also provide the deadline for when the full design (includ
 
 **DESIGN APPROVAL CHECKLIST - DO NOT EDIT THE FOLLOWING --- ONLY REVIEWERS SHOULD EDIT THE FOLLOWING WHEN THEY APPROVE**
 
-- [ ] UX Design approved (tag @findimue or @jennyjae once ready for UXD review) 
+- [ ] UX Design approved (tag @findimue for Web projects, or @kaiyuxu for Android projects, once ready for UXD review) 
 
 - [ ] UX Writing approved (tag @danapj once ready for UXW review) 
 
