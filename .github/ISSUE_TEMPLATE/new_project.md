@@ -26,12 +26,13 @@ Please link to the PRD here.
 If this feature is time-sensitive, please explain why.
 If applicable, please also provide the deadline for when the full design (including text content) needs to be completed by.
 
-**DESIGN APPROVAL CHECKLIST - DO NOT EDIT THE FOLLOWING --- ONLY REVIEWERS SHOULD EDIT THE FOLLOWING WHEN THEY APPROVE**
+**DESIGN APPROVAL CHECKLIST -- DO NOT EDIT.**
 
-- [ ] UX Design approved (tag @findimue for Web projects, or @kaiyuxu for Android projects, once ready for UXD review) 
+- [ ] UX Design approved
+- [ ] UX Writing approved
+- [ ] Product approved
 
-- [ ] UX Writing approved (tag @danapj once ready for UXW review) 
-
-- [ ] Product approved (tag @dchen97 (for web projects) or @seanlip (for Android projects) once ready for product review)
-
-**Design project is not complete until all of the above approvals are complete**
+_For a design project to be completed, it needs approval from UXD, UXW and PM. Please tag the following reviewers when your project is ready (it's enough to have one signoff from each of UXD, UXW and PM):_
+- LaCE projects: @ConorAMack / @rfinch11 (UXD), @jikim322 / @roxanashirazi (UXW), @dchen97 (PM)
+- CD projects: @IMHieuVo / @celestinetales (UXD), @kmuir1991 / @12lamy2 (UXW), @dchen97 (PM)
+- Android projects: @kaiyuxu (UXD), @jlevick / @danapj (UXW), @seanlip (PM)
