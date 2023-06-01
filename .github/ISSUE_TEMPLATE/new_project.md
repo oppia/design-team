@@ -28,7 +28,7 @@ If applicable, please also provide the deadline for when the full design (includ
 
 **DESIGN APPROVAL CHECKLIST -- DO NOT EDIT.**
 
-- [ ] UX Design approved
+- [ ] UX Design approved (Android mocks should include dark mode)
 - [ ] UX Writing approved
 - [ ] Product approved
 
