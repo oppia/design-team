@@ -7,7 +7,7 @@ This repo hosts the project management board for the Oppia UX Design and UX Writ
 
 Here are the design guides: 
 
-  * Oppia.org Website: [Figma link]([https://www.figma.com/file/nrQrOxSxSg1oabuVE6XJpa/Oppia-Design-Guide?node-id=0%3A1](https://www.figma.com/file/STgAK3PxJz3qxoljrTPy2U/Web-Style-Guide-%3E-2023-%3E-Aug?type=design&node-id=0%3A1&mode=design&t=JM691YNC4kSlhBPT-1))
+  * Oppia.org Website: [Figma link](https://www.figma.com/file/STgAK3PxJz3qxoljrTPy2U/Web-Style-Guide-%3E-2023-%3E-Aug?type=design&node-id=0%3A1&mode=design&t=JM691YNC4kSlhBPT-1)
   * Oppia Android app: [Figma link](https://www.figma.com/file/G0jHrMaopFzk2ZksuynBjS/Android-style-guide?type=design&node-id=2%3A8412&mode=design&t=0vx4p7mxNjWiNZgn-1). Here is an older [component guide](https://xd.adobe.com/view/dfe8ccd4-39eb-414d-a0b2-b5674357f966-8abb/grid/) in Adobe XD as well.
   * UX Writing Guide: [Google Doc](https://docs.google.com/document/d/14FfNXmJ0lWXWz_PKKY2OG-FraiKlA2Y4m1UWMUsYaBw/edit#heading=h.ygman8x1js6n)
   
