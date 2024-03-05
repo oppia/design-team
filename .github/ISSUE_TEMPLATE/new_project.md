@@ -33,7 +33,7 @@ If applicable, please also provide the deadline for when the full design (includ
 - [ ] Product approved
 
 _For a design project to be completed, it needs approval from UXD, UXW and PM. Please tag the following reviewers when your project is ready (it's enough to have one signoff from each of UXD, UXW and PM):_
-- Web projects: @rflore / @liwei899 (UXD), @kmuir1991 / @stepmalt (UXW), @seanlip (PM)
-- Android projects: @jiwonc26 (UXD), @kmuir1991 / @stepmalt (UXW), @seanlip (PM)
+- Web projects: @rflore / @S4v8n (UXD), @kmuir1991 / @stepmalt (UXW), @seanlip (PM)
+- Android projects: @seanlip (UXD), @kmuir1991 / @stepmalt (UXW), @seanlip (PM)
 - Design system projects: @qluuu / @celestinetales (UXD), @kmuir1991 / @stepmalt (UXW), @seanlip (PM)
 
