@@ -33,7 +33,7 @@ If applicable, please also provide the deadline for when the full design (includ
 - [ ] Design Systems Team approved
 - [ ] Product approved
 
-_For a design project to be completed, it needs approval from UXD, UXW and PM. Please tag the following reviewers when your project is ready (it's enough to have one signoff from each of UXD, UXW, design systems and PM):_
+_For a design project to be completed, it needs approval from UXD, UXW and PM. Please tag the following reviewers when your project is ready (at least one reviewer for each of the 4 bullet points below):_
 - UXD: @rflore / @S4v8n (for Web projects), @GlowWindow (for Android projects), N/A (for design style guide projects)
 - UXW: @stepmalt
 - Design systems: @qluuu / @celestinetales
