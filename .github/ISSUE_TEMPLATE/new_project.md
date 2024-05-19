@@ -8,7 +8,7 @@ about: Submit a request for design help for a new project
   -->
 
 **Platform**
-Oppia Web | Oppia Android (delete one)
+Oppia Web | Oppia Android | Design style guide (delete one)
 
 **Describe the request**
 A clear and concise description of what the request is (do you want UI designs, help with text, etc.).
@@ -30,10 +30,11 @@ If applicable, please also provide the deadline for when the full design (includ
 
 - [ ] UX Design approved (Android mocks should include dark mode)
 - [ ] UX Writing approved
+- [ ] Design Systems Team approved
 - [ ] Product approved
 
-_For a design project to be completed, it needs approval from UXD, UXW and PM. Please tag the following reviewers when your project is ready (it's enough to have one signoff from each of UXD, UXW and PM):_
-- Web projects: @rflore / @S4v8n (UXD), @stepmalt (UXW), @seanlip (PM)
-- Android projects: @GlowWindow (UXD), @stepmalt (UXW), @seanlip (PM)
-- Design system projects: @qluuu / @celestinetales (UXD), @stepmalt (UXW), @seanlip (PM)
-
+_For a design project to be completed, it needs approval from UXD, UXW and PM. Please tag the following reviewers when your project is ready (it's enough to have one signoff from each of UXD, UXW, design systems and PM):_
+- UXD: @rflore / @S4v8n (for Web projects), @GlowWindow (for Android projects), N/A (for design style guide projects)
+- UXW: @stepmalt
+- Design systems: @qluuu / @celestinetales
+- PM: @seanlip
