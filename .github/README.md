@@ -20,5 +20,5 @@ There is no code in this repository. If you're looking for Oppia's main code rep
 
 _This section is intended for Oppia product managers and developers seeking design help._
 
-- For small simple queries, please email "design AT oppia DOT org". This will reach the design team's mailing list.
+- For small simple queries, please email "design-leads AT oppia DOT org". This will reach the design leads' mailing list.
 - For larger projects (where the design team needs to create mocks or sign off on UIs), please file a new issue [here](https://github.com/oppia/design-team/issues). Please assume that the design team has no pre-knowledge about your project -- be sure to include any necessary context!
