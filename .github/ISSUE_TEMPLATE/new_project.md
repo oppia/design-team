@@ -22,9 +22,8 @@ Please provide enough context for the request. For example:
 **Link to PRD**
 Please link to the PRD here.
 
-**Information about deadlines/priorities**
-If this feature is time-sensitive, please explain why.
-If applicable, please also provide the deadline for when the full design (including text content) needs to be completed by.
+**UXR success criteria**
+For revisions of existing features, list the success criteria for the design here (i.e. what must the design achieve during UXR for it to be considered successful)? E.g. "When a user visits the topic page, they should be able to select their first lesson without needing further prompting."
 
 **DESIGN APPROVAL CHECKLIST -- DO NOT EDIT.**
 
