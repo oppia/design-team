@@ -31,7 +31,7 @@ For revisions of existing features, list the success criteria for the design her
 - [ ] UX Writing approved
 - [ ] Product approved
 
-_For a design project to be completed, it needs approval from UXD, UXW and PM. Please tag the following reviewers when your project is ready (at least one reviewer for each of the 4 bullet points below):_
+_For a design project to be completed, it needs approval from UXD, UXW and PM. Please tag the following reviewers when your project is ready (at least one reviewer for each of the bullet points below):_
 - UXD: @rflore / @S4v8n (for Web projects), @ashley-ya (for Android projects)
 - UXW: @ccc253 / @tamiorendain
 - PM: @seanlip
