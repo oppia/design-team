@@ -9,7 +9,7 @@ Here are the design guides:
 
   * Oppia.org Website: [Figma link](https://www.figma.com/design/MOnLoR43wqVrxjBrN8oKj1/Oppia-Design-System-Template?node-id=33826-154&t=Q0cBvDkbRq3xXeEd-1)
   * Oppia Android app: [Figma link](https://www.figma.com/file/G0jHrMaopFzk2ZksuynBjS/Android-style-guide?type=design&node-id=2%3A8412&mode=design&t=0vx4p7mxNjWiNZgn-1). Here is an older [component guide](https://xd.adobe.com/view/dfe8ccd4-39eb-414d-a0b2-b5674357f966-8abb/grid/) in Adobe XD as well.
-  * UX Writing Guide: [Google Doc](https://docs.google.com/document/d/14FfNXmJ0lWXWz_PKKY2OG-FraiKlA2Y4m1UWMUsYaBw/edit#heading=h.ygman8x1js6n)
+  * UX Writing Guide: [Google Doc](https://docs.google.com/document/d/1poCxa3ys_X6ef2GsJHS_mDbC-MOkdZoCccHDw-xLQ4g/edit?tab=t.0#heading=h.ehrzz7fue6cs)
   
 There is no code in this repository. If you're looking for Oppia's main code repos, you can find them here:
 
