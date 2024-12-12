@@ -15,7 +15,7 @@ Access design guides and resources for Oppia's web and mobile platforms:
 - **Oppia.org Website**:  
   [Figma Design System](https://www.figma.com/design/MOnLoR43wqVrxjBrN8oKj1/Oppia-Design-System-Template?node-id=33826-154&t=Q0cBvDkbRq3xXeEd-1)
 - **Oppia Android App**:  
-  [Figma Android Style Guide](https://www.figma.com/file/G0jHrMaopFzk2ZksuynBjS/Android-style-guide?type=design&node-id=2%3A8412&mode=design&t=0vx4p7mxNjWiNZgn-1)  
+  [Figma Android Style Guide](https://www.figma.com/design/WURFbYEKgjNMySLb98ZbuH/Oppia-Android-Style-Guide-(Dec-2024)?node-id=0-1&node-type=canvas&t=0nVdyzkrcQ9qoeGT-0)
   [Adobe XD Component Guide](https://xd.adobe.com/view/dfe8ccd4-39eb-414d-a0b2-b5674357f966-8abb/grid/) (Older version)  
 - **UX Writing Guide**:  
   [Google Doc](https://docs.google.com/document/d/1poCxa3ys_X6ef2GsJHS_mDbC-MOkdZoCccHDw-xLQ4g/edit?tab=t.0#heading=h.ehrzz7fue6cs)
