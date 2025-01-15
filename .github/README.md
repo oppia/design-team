@@ -20,6 +20,8 @@ Access design guides and resources for Oppia's web and mobile platforms:
 - **UX Writing Guide**:  
   [Google Doc](https://docs.google.com/document/d/1poCxa3ys_X6ef2GsJHS_mDbC-MOkdZoCccHDw-xLQ4g/edit?tab=t.0#heading=h.ehrzz7fue6cs)
 
+For designers: please feel free to [file an issue](https://github.com/oppia/design-team/issues) if you need something from the design guide that isn't present, but would help with your workflow. Thanks!
+
 ---
 
 ## Looking for Oppia's Code Repositories?
