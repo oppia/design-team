@@ -13,9 +13,9 @@ Welcome to the **Oppia Design Team** repository! This repo hosts the project man
 ### Design Guides
 Access design guides and resources for Oppia's web and mobile platforms:
 - **Oppia.org Website**:  
-  [Figma Design System](https://www.figma.com/design/MOnLoR43wqVrxjBrN8oKj1/Oppia-Design-System-Template?node-id=33826-154&t=Q0cBvDkbRq3xXeEd-1)
+  [Figma Design System](https://www.figma.com/design/7ymBDA8V8zZTGkaRilpPlS/Oppia-Web-Design-System-Library?node-id=33525-578&t=PTO8cZU9lCAP64Fg-1&fuid=558814336204379679)
 - **Oppia Android App**:  
-  [Figma Android Style Guide](https://www.figma.com/design/WURFbYEKgjNMySLb98ZbuH/Oppia-Android-Style-Guide-(Dec-2024)?node-id=0-1&node-type=canvas&t=0nVdyzkrcQ9qoeGT-0)  
+  [Figma Android Style Guide](https://www.figma.com/design/GArG0v6Ud7tpAJ5FTje5Hw/Oppia-Android-Design-Systems-LIbrary?node-id=40000012-496&t=CPkGOt3ZLaYwdYHV-1&fuid=558814336204379679)  
   [Adobe XD Component Guide](https://xd.adobe.com/view/dfe8ccd4-39eb-414d-a0b2-b5674357f966-8abb/grid/) (Older version)  
 - **UX Writing Guide**:  
   [Google Doc](https://docs.google.com/document/d/1poCxa3ys_X6ef2GsJHS_mDbC-MOkdZoCccHDw-xLQ4g/edit?tab=t.0#heading=h.ehrzz7fue6cs)
