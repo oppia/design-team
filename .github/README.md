@@ -18,7 +18,7 @@ Access design guides and resources for Oppia's web and mobile platforms:
   [Figma Android Style Guide](https://www.figma.com/design/GArG0v6Ud7tpAJ5FTje5Hw/Oppia-Android-Design-Systems-LIbrary?node-id=40000012-496&t=CPkGOt3ZLaYwdYHV-1&fuid=558814336204379679)  
   [Adobe XD Component Guide](https://xd.adobe.com/view/dfe8ccd4-39eb-414d-a0b2-b5674357f966-8abb/grid/) (Older version)  
 - **UX Writing Guide**:  
-  [Google Doc](https://docs.google.com/document/d/1poCxa3ys_X6ef2GsJHS_mDbC-MOkdZoCccHDw-xLQ4g/edit?tab=t.0#heading=h.ehrzz7fue6cs)
+  [Google Doc](https://docs.google.com/document/d/1iMiZBabGvKjC8wMGoQyqjhV8ZwrymxshGJkbrXpiJPs/edit?tab=t.17tohy7ogw0h)
 
 For designers: please feel free to [file an issue](https://github.com/oppia/design-team/issues) if you need something from the design guide that isn't present, but would help with your workflow. Thanks!
 
