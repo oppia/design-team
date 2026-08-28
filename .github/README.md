@@ -1,6 +1,6 @@
 # Oppia Design Team
 
-Welcome to the **Oppia Design Team** repository! This repo hosts the project management board for the **Oppia UX Design** and **UX Writing** teams. It serves as a central hub for collaboration, project tracking, and accessing design resources.
+Welcome to the **Oppia Design Team** repository! This repo hosts the project management board for the **Oppia UX Design** and **UX Research** teams. It serves as a central hub for collaboration, project tracking, and accessing design resources.
 
 ---
 
