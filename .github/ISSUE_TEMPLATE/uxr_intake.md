@@ -1,0 +1,79 @@
+name: Oppia UX Research Intake
+description: Request UX Research support for lessons, flows, or features.
+title: "[UXR Request]: "
+body:
+  - type: markdown
+    attributes:
+      value: |
+        ### Oppia UXR Research Request
+        Please provide the context, goals, and specific questions you need answered. The UXR team will review this to determine the best research approach.
+
+  - type: input
+    id: requester
+    attributes:
+      label: Project Lead / Requestor
+      description: Who is the main point of contact from the product/design side?
+      placeholder: e.g., @username / Name
+    validations:
+      required: true
+
+  - type: textarea
+    id: core_goal
+    attributes:
+      label: Core Product Goal
+      description: What are you building or improving, and why?
+      placeholder: e.g., Improving the flow for learners to discover and read hints.
+    validations:
+      required: true
+
+  - type: textarea
+    id: specific_questions
+    attributes:
+      label: Specific Research Questions
+      description: What exact questions do you need answered by users/learners?
+      placeholder: e.g., 1. Do learners know when a hint is available? 2. Is the layout intuitive on mobile?
+    validations:
+      required: true
+
+  - type: checkboxes
+    id: target_audience
+    attributes:
+      label: Target Audience (Check all that apply)
+      description: Who are we testing or speaking with?
+      options:
+        - label: Classroom Learners
+        - label: Self-directed Learners
+        - label: Parents / Guardians
+        - label: Teachers
+        - label: Prospective Volunteers
+        - label: Prospective Donors
+        - label: Other (please specify below)
+    validations:
+      required: true
+
+  - type: textarea
+    id: audience_other_details
+    attributes:
+      label: Other Audience Details & Screening Criteria
+      description: If you checked "Other" above, or if you have specific demographics, age groups, or technical skill requirements, please describe them here.
+      placeholder: e.g., Teachers who have used Oppia for at least 6 months, or students aged 10-14.
+    validations:
+      required: false
+
+- type: input
+    id: timeline
+    attributes:
+      label: Timeline Constraints
+      description: When do you need insights by, and why?
+      placeholder: e.g., Need findings before release planning on MM/DD/YYYY
+    validations:
+      required: true
+
+  - type: textarea
+    id: artifacts
+    attributes:
+      label: Links to Mocks, PRDs, or Designs
+      description: Include links to Figma files, design specs, or relevant GitHub issues.
+      placeholder: https://www.figma.com/...
+    validations:
+      required: false
