@@ -60,7 +60,7 @@ body:
     validations:
       required: false
 
-- type: input
+  - type: input
     id: timeline
     attributes:
       label: Timeline Constraints
