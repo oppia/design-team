@@ -1,6 +1,6 @@
 ---
-name: New Project
-about: Submit a request for design help for a new project
+name: New UXD Project
+about: Submit a request for UX Design help for a new project
 ---
 <!--
   - Thanks for taking the time to file a request for design help!
