@@ -28,10 +28,6 @@ For revisions of existing features, list the success criteria for the design her
 **DESIGN APPROVAL CHECKLIST -- DO NOT EDIT.**
 
 - [ ] UX Design approved (Android mocks should include dark mode)
-- [ ] UX Writing approved
 - [ ] Product approved
 
-_For a design project to be completed, it needs approval from UXD, UXW and PM. Please tag the following reviewers when your project is ready (at least one reviewer for each of the bullet points below):_
-- UXD: @rflore / @S4v8n (for Web projects), @seanlip (for Android projects)
-- UXW: @davishedrick / @aileenyesand
-- PM: @seanlip
+_Please tag a reviewer from each of the above teams when your project is ready for review._
